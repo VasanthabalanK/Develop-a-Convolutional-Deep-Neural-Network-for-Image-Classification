@@ -70,9 +70,9 @@ Evaluate the trained model on test images and verify the classification accuracy
 
 ## PROGRAM
 
-### Name: ABISHEIK PRIYAN V
+### Name: VASANTHABALAN K
 
-### Register Number:212224230005
+### Register Number:212224230296
 
 ```python
 import torch
